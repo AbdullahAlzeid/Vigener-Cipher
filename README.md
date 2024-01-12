@@ -1,7 +1,9 @@
 # Vigenère Cipher Implementation
 
+![Alt text](/images/key.png)
+
 ## Overview
-This repository contains a Java implementation of the Vigenère Cipher, a method of encrypting alphabetic text through a simple form of polyalphabetic substitution. The implementation includes both encryption and decryption functionalities.
+This Java program is an implementation of the Vigenère Cipher, a method of encrypting alphabetic text through a simple form of polyalphabetic substitution. The implementation includes both encryption and decryption functionalities.
 
 ## Features
 - **Encryption**: Encrypts plain text using the Vigenère Cipher technique.
