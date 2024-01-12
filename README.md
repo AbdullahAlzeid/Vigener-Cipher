@@ -1,6 +1,6 @@
 # Vigenère Cipher Implementation
 
-![Alt text](/images/key.png)
+![Alt text](/images/Key.png)
 
 ## Overview
 This Java program is an implementation of the Vigenère Cipher, a method of encrypting alphabetic text through a simple form of polyalphabetic substitution. The implementation includes both encryption and decryption functionalities.
